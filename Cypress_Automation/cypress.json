@@ -1,0 +1,17 @@
+{
+    "defaultCommandTimeout":8000,
+    "responseTimeout":60000,
+    "viewportWidth":1400,
+    "uncaught":"exception",
+
+    "db": {
+        "userName": "Amit",
+        "password": "Amit@111992",
+        "server": "amitchikte.database.windows.net",
+        "options": {
+            "database": "Amit",
+            "encrypt": true,
+            "rowCollectionOnRequestCompletion" : true
+        }
+    }
+}

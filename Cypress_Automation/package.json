@@ -1,0 +1,21 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.7.0",
+    "npx": "^10.2.2",
+    "xlsx": "^0.17.4"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1",
+    "cypress-sql-server": "^1.0.0",
+    "jest": "^27.0.6"
+  }
+}

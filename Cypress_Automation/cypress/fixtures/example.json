@@ -1,0 +1,27 @@
+{
+  
+  "data1":{
+  "name": "Amit Chikte",
+  "Designation": " Software Engineer",
+  "email": "ac00768636@techmahindra.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "city":"pune"
+},
+
+"data2":{
+  "name": "Deepanshu Chandana",
+  "Designation": " Manager",
+  "email": "dc00768636@google.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "city":"Noida"
+},
+
+"data3":{
+  "name": "Hrushikesh Charjan",
+  "Designation": " Technical Writer",
+  "email": "dc00768636@onwardgroup.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "city":"Pune"
+}
+
+}
